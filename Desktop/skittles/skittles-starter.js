@@ -46,9 +46,6 @@
   }
 
   /* ------------------------------ Provided Shorthand Functions ------------------------------ */
-  // Note: These are the three provided shorthand functions shown in lecture/section. You may use these
-  // in your own JS, but these are the only functions you are allowed to use in your own work as an
-  // exception to the course Academic Conduct policy. These are also useful examples of JSDoc comments!
   /**
    * Returns the element that has the ID attribute with the specified value.
    * @param {string} idName - element ID
